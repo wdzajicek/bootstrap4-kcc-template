@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Jekyll + Gulp + Browser-sync + Bootstrap 4 + Font-Awesome",
   "main": "gulpfile.js",
-  "author": "David Malone - david@souldesign.net.nz",
+  "author": "KCC Web Services",
   "keywords": [
     "Jekyll",
     "Gulp",
@@ -35,5 +35,8 @@
     "vinyl-buffer": "~1.0.0",
     "vinyl-source-stream": "~1.1.0",
     "cssnano": "~3.10.0"
+  },
+  "dependencies": {
+    "fsevents": "^1.1.3"
   }
 }
