@@ -31,9 +31,14 @@
   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+#mainNav .navbar-nav .nav-item .nav-link.active {
   color: $primary-red;
   font-weight: 600;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: $primary-red;
+  font-weight: 400;
 }
 
 @media (min-width:992px) {
