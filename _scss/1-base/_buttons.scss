@@ -10,13 +10,13 @@
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136
+  background-color: $primary-red;
+  border-color: $primary-red;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810!important;
-  border-color: #fec810!important;
+  background-color: $primary-red!important;
+  border-color: $primary-red!important;
   color: #fff
 }
 
