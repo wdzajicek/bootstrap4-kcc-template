@@ -8,12 +8,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: $primary-red;
   text-shadow: none
 }
 
 ::selection {
-  background: #fed136;
+  background: $primary-red;
   text-shadow: none
 }
 
